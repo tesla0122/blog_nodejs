@@ -1,5 +1,19 @@
 @import 'variables';
 
-h1 {
-    color: $red-color;
+.card-courses {
+    margin-top: 20px;
+}
+
+.user-avatar {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    outline: none;
+    margin-right: 10px;
+}
+
+// stored-courses.hbs
+.select-option-stored {
+    width: 200px;
+    margin: 0 20px;
 }
